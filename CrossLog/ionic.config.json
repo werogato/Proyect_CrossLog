@@ -1,0 +1,7 @@
+{
+  "name": "CrossLog",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
